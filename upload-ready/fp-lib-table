@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "My_custom_footprint") (type "KiCad") (uri "D:/KiCad/My_custom_footprint.pretty") (options "") (descr ""))
+	(lib (name "my_custom_footprints") (type "KiCad") (uri "C:/Users/mayur_rw4uchy/OneDrive/Documents/KiCad/10.0/footprints/my_custom_footprints.pretty") (options "") (descr ""))
+)
