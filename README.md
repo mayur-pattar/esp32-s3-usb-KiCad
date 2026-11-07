@@ -2,9 +2,9 @@
 
 An ESP32-S3 USB module designed in KiCad 10, taken from schematic to PCB layout, DRC checks, and 3D review.
 
-> **Credit:** Built by following The Design Graveyard's YouTube tutorial: [paste video link here]
+> **Credit:** Built by following The Design Graveyard's YouTube tutorial: [https://youtu.be/3NSjzMN1xyc]
 
-![3D view](<img width="1920" height="1136" alt="3d-view" src="https://github.com/user-attachments/assets/dd68b378-b86d-48ef-a34e-f895f1356121" />).
+3D view.<img width="1920" height="1136" alt="3d-view" src="https://github.com/user-attachments/assets/dd68b378-b86d-48ef-a34e-f895f1356121" />
 
 ## What's in this repo
 - `ESP32_USB.kicad_sch`: schematic
@@ -20,10 +20,9 @@ An ESP32-S3 USB module designed in KiCad 10, taken from schematic to PCB layout,
 - **Routing:** USB D+/D- are routed as a short, matched pair.
 
 ## Schematic and PCB
-![Schematic](<img width="1920" height="1143" alt="schematic" src="https://github.com/user-attachments/assets/2fa8a9b4-8a90-4c9f-ad11-6a52affb3026" />
-)
-![PCB layout](<img width="1920" height="1138" alt="pcb-layout" src="https://github.com/user-attachments/assets/8ea913ea-e4f5-4cf1-8874-416bc6b6d493" />
-)
+Schematic<img width="1920" height="1143" alt="schematic" src="https://github.com/user-attachments/assets/2fa8a9b4-8a90-4c9f-ad11-6a52affb3026" />
+PCB layout<img width="1920" height="1138" alt="pcb-layout" src="https://github.com/user-attachments/assets/8ea913ea-e4f5-4cf1-8874-416bc6b6d493" />
+
 
 ## What I learned
 - Schematic capture, footprint assignment, and PCB routing in KiCad
